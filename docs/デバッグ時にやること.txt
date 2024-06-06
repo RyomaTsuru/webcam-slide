@@ -1,0 +1,1 @@
+firefoxの検索バーでabout:configを入力しsecurity.fileuri.strict_origin_policyをfalseにする(終了時はTrueに戻しておく)
